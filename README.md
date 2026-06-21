@@ -2,6 +2,15 @@
 
 ## Description: In this lab, we will structure our Active Directory environment by creating Organizational Units (OUs), categorizing departments, and provisioning domain admin and regular user accounts.
 
+## Tools Used
+
+* **[Active Directory Users and Computers (ADUC)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-g--securing-administrators-groups-in-active-directory)** - The primary Microsoft Management Console (MMC) snap-in used to administer Active Directory objects and their attributes.
+* **[Server Manager](https://learn.microsoft.com/en-us/windows-server/administration/server-manager/server-manager)** - The management console used to provision and manage Windows Server roles and features.
+
+## Environments Used
+
+* **[Windows Server 2025](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2025)** - The server operating system functioning as our Domain Controller.
+
 ## Step 1: Open Active Directory Users and Computers
 
 First, open **Active Directory Users and Computers** from the Server Manager tools.
