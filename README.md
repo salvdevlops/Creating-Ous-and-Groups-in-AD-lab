@@ -99,5 +99,5 @@ You should now see the standard user residing under the HR OU:
 
 <img width="581" height="369" alt="image" src="https://github.com/user-attachments/assets/0a562ce7-1b64-4487-bd14-9bfcbedeb339" />
 
-
+Next Lab: https://github.com/salvdevlops/Joining-a-Windows-11-client-to-Active-Directory-Domain-lab/edit/main/README.md
 
